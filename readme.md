@@ -1,1 +1,1 @@
-Just have some fun here.
+Just have some fun here. Manily focus of Fin side.

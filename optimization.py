@@ -41,3 +41,4 @@ if __name__ == "__main__":
     optimized_portfolios = optimize_portfolio(args.filepath)
     for portfolio in optimized_portfolios:
         print("Weights:", portfolio.x, "Expected Return:", portfolio.fun)
+        

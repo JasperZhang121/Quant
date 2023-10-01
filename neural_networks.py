@@ -72,3 +72,4 @@ if __name__ == "__main__":
     
     mse = mean_squared_error(y_test, y_pred)
     print(f"Mean Squared Error for Neural Network: {mse}")
+    
